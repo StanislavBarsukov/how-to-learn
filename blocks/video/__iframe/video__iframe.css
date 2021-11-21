@@ -6,3 +6,6 @@
     border: none;
     transform: translateY(50px);
   }
+iframe {
+  border:0px;
+}
