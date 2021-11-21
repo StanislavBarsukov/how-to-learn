@@ -1,7 +1,7 @@
 .video__iframe {
     margin-top: 0px;
     display: grid;
-    grid-template-columns: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
     column-gap: 20px;
     border: none;
     transform: translateY(50px);
