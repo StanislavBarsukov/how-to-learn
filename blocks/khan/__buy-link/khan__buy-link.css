@@ -7,6 +7,6 @@
   text-decoration: none;
 }
 .khan__buy-link:hover {
-  opacity: .4;
+  opacity: 0;
   transition: 1.5s;
 }
