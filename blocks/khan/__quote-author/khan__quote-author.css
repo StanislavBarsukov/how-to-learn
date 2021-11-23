@@ -1,8 +1,8 @@
 .khan__quote-author {
-    color: #000000;
-    margin: 0;
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: bold;
-    
-  }
+  margin-block: 0px;
+  color: #000000;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}

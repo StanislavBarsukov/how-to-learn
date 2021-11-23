@@ -1,9 +1,11 @@
 .section-title {
-    color: #000000;
-    width: 60%;
-    line-height: 1.15;
-    font-size: 60px;
-    font-weight: bold;
-    text-align: center;
-    margin: 0px 0px;
-  }
+  color: #000000;
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px 0px;
+  margin-block: 0px;
+  padding-inline: 0px;
+ }
